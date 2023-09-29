@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> Cadastro Hesvec </h1>
+    return <h1> Cadastro de Usuário </h1>
 }
 
 export default Home;
